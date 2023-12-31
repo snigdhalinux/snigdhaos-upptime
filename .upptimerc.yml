@@ -38,7 +38,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: https://snigdhalinux.github.io/snigdhaos-upptime
+  baseUrl: /snigdhaos-upptime
   logoUrl: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
   name: Snigdha OS Upptime
   introTitle: "Am I running?"
