@@ -11,20 +11,28 @@ sites:
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
   - name: Hawkeye-Repository
     url: https://snigdhalinux.github.io/hawkeye/
+    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
   - name: Redeye-Repository
     url: https://snigdhalinux.github.io/redeye/
+    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
   - name: Arctic-Repository
     url: https://snigdhalinux.github.io/arctic/
+    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
   - name: Snigdha-Web
     url: https://snigdhaos.org/
+    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
   - name: Snigdha-ISO
     url: https://iso.snigdhaos.org/
+    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
   - name: Snigdha-Forum
     url: https://forum.snigdhaos.org/
+    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
   - name: Snigdha-Wiki
     url: https://wiki.snigdhaos.org/
+    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
   - name: Snigdha-Upptime
     url: https://snigdhalinux.github.io/snigdhaos-upptime/
+    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
