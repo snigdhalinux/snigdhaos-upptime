@@ -8,6 +8,7 @@ assignees:
 sites:
   - name: Eshanized-Repository
     url: https://snigdhalinux.github.io/eshanized-repository/
+    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
   - name: Hawkeye-Repository
     url: https://snigdhalinux.github.io/hawkeye/
   - name: Redeye-Repository
