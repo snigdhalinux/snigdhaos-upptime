@@ -60,7 +60,7 @@ status-website:
   name: Snigdha OS Upptime
   introTitle: "Am I running?"
   introMessage: This is upptime monitoring page of Snigdha OS servers hosted on GitHub
-  theme: night
+  theme: dark
   navbar:
     - title: Status
       href: /
