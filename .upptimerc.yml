@@ -6,31 +6,46 @@ assignees:
   - snigdhalinux
 
 sites:
-  - name: Eshanized-Repository
-    url: https://snigdhalinux.github.io/eshanized-repository/
+  - name: BD-MIRROR
+    url: https://bd-mirror.snigdhaos.org
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
-  - name: Hawkeye-Repository
-    url: https://snigdhalinux.github.io/hawkeye/
+  - name: IN-MIRROR
+    url: https://in-mirror.snigdhaos.org
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
-  - name: Redeye-Repository
-    url: https://snigdhalinux.github.io/redeye/
+  - name: US-MIRROR
+    url: https://us-mirror.snigdhaos.org
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
-  - name: Arctic-Repository
-    url: https://snigdhalinux.github.io/arctic/
+  - name: UK-MIRROR
+    url: https://uk-mirror.snigdhaos.org
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
-  - name: Snigdha-Web
-    url: https://snigdhaos.org/
+  - name: GE-MIRROR
+    url: https://ge-mirror.snigdhaos.org
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
-  - name: Snigdha-ISO
-    url: https://iso.snigdhaos.org/
+  - name: RU-MIRROR
+    url: https://ru-mirror.snigdhaos.org
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
-  - name: Snigdha-Forum
-    url: https://forum.snigdhaos.org/
+  - name: WW-MIRROR
+    url: https://ww-mirror.snigdhaos.org
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
-  - name: Snigdha-Wiki
-    url: https://wiki.snigdhaos.org/
+  - name: AF-MIRROR
+    url: https://af-mirror.snigdhaos.org
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
-  - name: Snigdha-Upptime
+  - name: JP-MIRROR
+    url: https://bd-mirror.snigdhaos.org
+    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
+  - name: SNIGDHA-GLOBE
+    url: https://snigdhaos.org
+    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
+  - name: SNIGDHA-BUILD
+    url: https://iso.snigdhaos.org
+    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
+  - name: SNIGDHA-FORUM
+    url: https://forum.snigdhaos.org
+    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
+  - name: SNIGDHA-WIKI
+    url: https://wiki.snigdhaos.org
+    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
+  - name: SNIGDHA-STATUS
     url: https://snigdhalinux.github.io/snigdhaos-upptime/
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
 
@@ -45,7 +60,7 @@ status-website:
   name: Snigdha OS Upptime
   introTitle: "Am I running?"
   introMessage: This is upptime monitoring page of Snigdha OS servers hosted on GitHub
-  theme: dark
+  theme: night
   navbar:
     - title: Status
       href: /
