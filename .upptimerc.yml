@@ -43,7 +43,7 @@ sites:
     url: https://forum.snigdhaos.org
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
   - name: SNIGDHA-WIKI
-    url: https://wiki.snigdhaos.org
+    url: https://forum.snigdhaos.org
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
   - name: SNIGDHA-STATUS
     url: https://snigdhalinux.github.io/snigdhaos-upptime/
@@ -56,7 +56,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /snigdhaos-upptime
-  logoUrl: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-green.svg
+  logoUrl: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
   name: Snigdha OS Upptime
   introTitle: "Am I running?"
   introMessage: This is upptime monitoring page of Snigdha OS servers hosted on GitHub
