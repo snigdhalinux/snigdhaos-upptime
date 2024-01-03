@@ -6,6 +6,9 @@ assignees:
   - snigdhalinux
 
 sites:
+  - name: GLOBAL-MIRROR
+    url: https://mirror.snigdhaos.org
+    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
   - name: BD-MIRROR
     url: https://bd-mirror.snigdhaos.org
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
