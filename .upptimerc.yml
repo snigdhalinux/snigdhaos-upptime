@@ -6,41 +6,17 @@ assignees:
   - snigdhalinux
 
 sites:
-  - name: GLOBAL-MIRROR
-    url: https://mirror.snigdhaos.org
-    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
-  - name: BD-MIRROR
-    url: https://bd-mirror.snigdhaos.org
-    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
-  - name: IN-MIRROR
-    url: https://in-mirror.snigdhaos.org
-    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
-  - name: US-MIRROR
-    url: https://us-mirror.snigdhaos.org
-    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
-  - name: UK-MIRROR
-    url: https://uk-mirror.snigdhaos.org
-    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
-  - name: GE-MIRROR
-    url: https://ge-mirror.snigdhaos.org
-    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
-  - name: RU-MIRROR
-    url: https://ru-mirror.snigdhaos.org
-    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
-  - name: WW-MIRROR
-    url: https://ww-mirror.snigdhaos.org
-    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
-  - name: AF-MIRROR
-    url: https://af-mirror.snigdhaos.org
-    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
-  - name: JP-MIRROR
-    url: https://bd-mirror.snigdhaos.org
-    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
   - name: SNIGDHA-GLOBE
     url: https://snigdhaos.org
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
-  - name: SNIGDHA-BUILD
-    url: https://iso.snigdhaos.org
+  - name: SNIGDHA-ARCTIC
+    url: https://builds.snigdhaos.org/repo/arctic
+    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
+  - name: SNIGDHA-BADBLOOD
+    url: https://builds.snigdhaos.org/repo/badblood
+    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
+  - name: SNIGDHA-ARCTIC
+    url: https://builds.snigdhaos.org/repo/warewolf
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
   - name: SNIGDHA-FORUM
     url: https://forum.snigdhaos.org
