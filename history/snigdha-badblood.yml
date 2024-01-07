@@ -1,7 +1,7 @@
 url: https://builds.snigdhaos.org/repo/badblood
-status: down
-code: 404
-responseTime: 225
-lastUpdated: 2024-01-06T23:07:43.771Z
+status: up
+code: 200
+responseTime: 449
+lastUpdated: 2024-01-07T20:10:47.702Z
 startTime: 2024-01-06T12:53:27.872Z
 generator: Upptime <https://github.com/upptime/upptime>
