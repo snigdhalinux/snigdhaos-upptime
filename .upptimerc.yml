@@ -15,8 +15,8 @@ sites:
   - name: SNIGDHA-BADBLOOD
     url: https://builds.snigdhaos.org/repo/badblood
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
-  - name: SNIGDHA-WAREWOLF
-    url: https://builds.snigdhaos.org/repo/warewolf
+  - name: SNIGDHA-CORE
+    url: https://builds.snigdhaos.org/repo/snigdha-core
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
   - name: SNIGDHA-FORUM
     url: https://forum.snigdhaos.org
