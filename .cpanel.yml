@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/snigdhao/builds.snigdhaos.org/repo/snigdhaos-core
+    - /bin/cp * $DEPLOYPATH
+    # - /bin/cp style.css $DEPLOYPATH
