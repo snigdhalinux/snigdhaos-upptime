@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/snigdhao/status.snigdhaos.org/
+    - /bin/cp * $DEPLOYPATH
+    # - /bin/cp style.css $DEPLOYPATH
