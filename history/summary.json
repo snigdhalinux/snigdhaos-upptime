@@ -22,19 +22,19 @@
     "url": "https://builds.snigdhaos.org/snigdhaos-core",
     "icon": "https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg",
     "slug": "snigdhaos-core",
-    "status": "down",
-    "uptime": "95.53%",
-    "uptimeDay": "95.53%",
-    "uptimeWeek": "95.53%",
-    "uptimeMonth": "95.53%",
-    "uptimeYear": "95.53%",
-    "time": 1169,
-    "timeDay": 1169,
-    "timeWeek": 1169,
-    "timeMonth": 1169,
-    "timeYear": 1169,
+    "status": "up",
+    "uptime": "95.36%",
+    "uptimeDay": "95.36%",
+    "uptimeWeek": "95.36%",
+    "uptimeMonth": "95.36%",
+    "uptimeYear": "95.36%",
+    "time": 1158,
+    "timeDay": 1158,
+    "timeWeek": 1158,
+    "timeMonth": 1158,
+    "timeYear": 1158,
     "dailyMinutesDown": {
-      "2024-01-25": 60
+      "2024-01-25": 63
     }
   },
   {
