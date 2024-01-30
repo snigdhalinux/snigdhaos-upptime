@@ -11,8 +11,8 @@ sites:
   - name: SNIGDHAOS-CORE
     url: https://snigdhalinux.github.io/snigdhaos-core
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
-  - name: SNIGDHAOS-NITROZEN
-    url: https://build.snigdhaos.org/nitrozen
+  - name: SNIGDHAOS-SPECTRUM
+    url: https://build.snigdhaos.org/spectrum
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
   - name: SNIGDHAOS-ESHAN
     url: https://eshan.snigdhaos.org/
