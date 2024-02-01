@@ -8,11 +8,14 @@ sites:
   - name: SNIGDHAOS-GLOBE
     url: https://snigdhaos.org
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
+  - name: SNIGDHAOS-GLOCAL
+    url: https:/snigdhalinux.github.io/
+    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
   - name: SNIGDHAOS-CORE
     url: https://snigdhalinux.github.io/snigdhaos-core
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
   - name: SNIGDHAOS-SPECTRUM
-    url: https://build.snigdhaos.org/spectrum
+    url: https://build.snigdhaos.org/
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
   - name: SNIGDHAOS-ESHAN
     url: https://eshan.snigdhaos.org/
