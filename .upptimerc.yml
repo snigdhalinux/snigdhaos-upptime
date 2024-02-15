@@ -3,6 +3,7 @@ owner: snigdhalinux # Your GitHub organization or username, where this repositor
 repo: snigdhaos-upptime # The name of this repository
 assignees:
   - snigdhalinux
+  - eshanized
 
 sites:
   - name: SNIGDHAOS-GLOBE
