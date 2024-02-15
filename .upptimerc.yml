@@ -11,6 +11,9 @@ sites:
   - name: SNIGDHAOS-GLOCAL
     url: https:/snigdhalinux.github.io/
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
+  - name: SNIGDHAOS-CLOUD
+    url: https://cloud.snigdhaos.org
+    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
   - name: SNIGDHAOS-CORE
     url: https://snigdhalinux.github.io/snigdhaos-core
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
