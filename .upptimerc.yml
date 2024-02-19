@@ -28,7 +28,10 @@ sites:
     url: https://forum.snigdhaos.org
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
   - name: SNIGDHA-WIKI
-    url: https://forum.snigdhaos.org
+    url: https://wikis.snigdhaos.org
+    icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
+  - name: SNIGDHA-Tools
+    url: https://tools.snigdhaos.org
     icon: https://raw.githubusercontent.com/snigdhalinux/snigdhaos-icon/master/usr/share/icons/snigdhaos/snigdhaos-purple.svg
   - name: SNIGDHA-STATUS
     url: https://snigdhalinux.github.io/snigdhaos-upptime/
